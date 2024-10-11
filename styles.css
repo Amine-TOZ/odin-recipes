@@ -1,0 +1,46 @@
+*{
+    background-color:black;
+    text-align: center;
+    
+}
+#ratgif{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    height: auto;
+    border-radius: 50px;
+    
+}
+
+h1{
+    color:lightyellow; 
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.recipe{
+    font-size: 22px;
+    border-bottom:solid;
+    border-width: 10px;
+    border-radius: 15px;
+    padding: 7px;
+    position: relative;
+    top: 50px;
+    font-weight: bold;
+    
+}
+.recipe.recipe1{
+    color: lightpink;
+    position: relative;
+    right: 100px;
+}
+
+.recipe.recipe2{
+    color: lightgoldenrodyellow;
+}
+.recipe.recipe3{
+    color: lightgreen;
+    position: relative;
+    left: 105px;
+}
