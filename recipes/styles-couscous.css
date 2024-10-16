@@ -1,0 +1,50 @@
+*{
+    background-color:black;
+    
+    color: lightgoldenrodyellow;
+}
+h1 {
+    border-bottom:solid;
+    border-width: 10px;
+    border-radius: 15px;
+    padding: 7px; 
+    text-align: center   
+}
+
+img{
+    width: 30%;
+    float: left;
+}
+p{
+    line-height: 25px;
+    font-size: 18px;
+}
+
+li{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.container1{
+    width: 40%;
+    display: inline-block;
+    margin-left: 2%;
+    vertical-align: top;
+}
+.overflow{
+    overflow: auto;
+}
+.ingredients{
+    display: inline-block;
+    width: 15%;
+    margin-left: 10%;
+}
+.steps{
+margin-top: 15%;
+
+}
+h2{
+    text-align: center;
+}
+
+
